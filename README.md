@@ -1,4 +1,4 @@
-_I regret every line of code that I write :)_ - one wise man (jk i ain't wise)
+I barely code, hopefully you find something cool here :)
 ---
 
 <div>

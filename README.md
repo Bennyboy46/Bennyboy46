@@ -1,4 +1,4 @@
-I barely code, hopefully you find something cool here :)
+I barely code, hope you find something cool here :)
 ---
 
 <div>
